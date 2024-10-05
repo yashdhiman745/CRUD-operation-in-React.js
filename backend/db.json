@@ -1,0 +1,38 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "username": "example"
+    },
+    {
+      "id": "5ff8",
+      "username": "shivangr",
+      "email": "shivang@gmail.com",
+      "number": "88451212"
+    },
+    {
+      "id": "4874",
+      "username": "qspider",
+      "email": "qspider@gmail.com",
+      "number": "6587"
+    },
+    {
+      "id": "77cd",
+      "username": "avd",
+      "email": "df@gamil.com",
+      "number": "5"
+    },
+    {
+      "id": "24ce",
+      "username": "qspider",
+      "email": "fafas@gamil.com",
+      "number": "55"
+    },
+    {
+      "id": "fc55",
+      "username": "hello",
+      "email": "hello@gmail.comm",
+      "number": "56"
+    }
+  ]
+}
